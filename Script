@@ -1,0 +1,12 @@
+html {
+*/color list
+--color-1: #fffff;
+--color-2: #ooooo;  
+--color-3: #8c55b2;
+}
+
+body {
+  margin:0;
+  font-family: Calibri;
+  
+}
